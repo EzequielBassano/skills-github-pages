@@ -12,7 +12,7 @@ title: Vamos a poner a prueba un poco de Markdown para nuestra page.
 3. más elementos.
 
 # Agregamos un enlace a nuestro linkedin:
-[Enlace al linkedin del profe](linkedin.com/in/ezequielbassano)
+[Enlace al linkedin del profe](https://www.linkedin.com/in/ezequielbassano)
 
 
 ## Creamos una tabla
