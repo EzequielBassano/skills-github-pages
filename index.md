@@ -17,9 +17,9 @@ title: Vamos a poner a prueba un poco de Markdown para nuestra page.
 
 ## Creamos una tabla
 
-|| Predice 1    | Predice  |
-||--------------|----------|
-Es 1:| 323 |  0       |
-Es 0: | 32 |  65      |
+     | Pred1 | pred0  |
+     |------ |---------|
+Es 1:| 323    |  0    |
+Es 0: | 32   |  65      |
 
 
